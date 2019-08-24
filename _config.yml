@@ -63,7 +63,7 @@ gitalk:
   enable: true    #是否开启Gitalk评论
   clientID: 980e93b08101627ba07d                            #生成的clientID
   clientSecret: d29b17e0ec1bfdc688e346febb17738fc6694928    #生成的clientSecret
-  repo: https://github.com/leigang431/leigang431.github.io    #仓库名称
+  repo: leigang431.github.io    #仓库名称
   owner: leigang431    #github用户名
   admin: leigang431
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
