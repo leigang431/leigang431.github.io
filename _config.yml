@@ -1,10 +1,10 @@
 # Site settings
-title: BY Blog
-SEOTitle: 雷钢的博客 | BY Blog
+title: LG Blog
+SEOTitle: 雷钢的博客 | LG Blog
 header-img: img/post-bg-desk.jpg
 email: leigang431@163.com
 description: "Every failure is leading towards success."
-keyword: "BY, BY Blog, 雷钢的博客, leigang, 雷钢, iOS, Apple, iPhone"
+keyword: "LG, LG Blog, 雷钢的博客, leigang, 雷钢, Student, Apple, iPhone"
 url: "http://leigang431.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/leigang431/leigang431.github.io.git" # you code repository
@@ -18,7 +18,7 @@ sidebar-avatar: /img/avatar_m.jpg      # use absolute URL, seeing it's used in b
 
 # SNS settings
 RSS: false
-weibo_username:     聪明的柯小南
+weibo_username:     5827985859
 zhihu_username:     zhi-meng-hua-yuan
 github_username:    leigang431
 #facebook_username:  111111
