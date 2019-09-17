@@ -14,5 +14,4 @@ tags:								#标签
 ## Hey
 >这是我的第一篇博客。
 <iframe src="//player.bilibili.com/player.html?aid=68011599&cid=117883023&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
-也许过了很多年，当激情渐渐褪去，他开始回忆过往，会发现生命中最珍贵的那段感情，来自于卑微到尘埃的她。
-《说好不哭》，也可以叫《渣男忏悔录》。
+也许过了很多年，当激情渐渐褪去，他开始回忆过往，会发现生命中最珍贵的那段感情，来自于卑微到尘埃的她。《说好不哭》，也可以叫《渣男忏悔录》。
